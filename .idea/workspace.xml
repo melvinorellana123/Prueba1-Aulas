@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2df3b0a-cef5-4d8a-919d-bb8ceb818c1b" name="Changes" comment="barra de titulo 2">
+    <list default="true" id="d2df3b0a-cef5-4d8a-919d-bb8ceb818c1b" name="Changes" comment="color de la barra 3">
       <change beforePath="$PROJECT_DIR$/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <updated>1656632967555</updated>
       <workItem from="1656632968824" duration="1659000" />
       <workItem from="1656634659220" duration="42000" />
-      <workItem from="1656634709031" duration="5168000" />
+      <workItem from="1656634709031" duration="5535000" />
     </task>
     <task id="LOCAL-00001" summary="quite basura e hice mas grande el texto">
       <created>1656634670191</created>
@@ -141,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656640152070</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="color de la barra">
+      <created>1656640220115</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656640220115</updated>
+    </task>
+    <task id="LOCAL-00015" summary="color de la barra 3">
+      <created>1656640404716</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656640404716</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +185,8 @@
     <MESSAGE value="letra mas grande xd" />
     <MESSAGE value="barra de titulo" />
     <MESSAGE value="barra de titulo 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="barra de titulo 2" />
+    <MESSAGE value="color de la barra" />
+    <MESSAGE value="color de la barra 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="color de la barra 3" />
   </component>
 </project>
