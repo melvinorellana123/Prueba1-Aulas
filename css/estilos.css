@@ -49,6 +49,7 @@ h1 .txt1 {
 
 .titulo {
     font-size: 50px;
+    margin-top: 50px;
 }
 
 /* About us */
@@ -56,10 +57,9 @@ h1 .txt1 {
 .about-us {
     background: #f2f2f2;
 }
-.contenedor1{
-    padding: 0;
-}
+
 .contenedor-articulo {
+
     width: auto;
     display: flex;
     flex-wrap: wrap;
@@ -72,7 +72,7 @@ h1 .txt1 {
     background: #fff;
     margin-bottom: 30px;
     border-radius: 10px;
-    padding: 30px 30px 60px 10px;
+    padding: 30px 10px 40px 30px;
     transition: 0.5s;
 }
 
@@ -114,17 +114,13 @@ h1 .txt1 {
     font-size: 25px;
     margin-top: 25px;
 }
-.articulo>p {
-    margin-top: 20px;
-    font-size: 18px;
-    font-weight:200 ;
-}
 
 .articulo>p {
     font-weight: 100;
     color: #5D6678;
-    margin-top: 10px;
-
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
 }
 
 .articulo>a {
