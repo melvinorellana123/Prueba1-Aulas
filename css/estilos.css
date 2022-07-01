@@ -1,3 +1,7 @@
+:root {
+    --azul: #0c3869
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -18,7 +22,7 @@ h4,
 h5,
 h6,
 p{
-    color: #2b4272;
+    color: var(--azul);
     font-weight: 300;
 }
 
@@ -57,7 +61,7 @@ h1 .txt1 {
     max-width: 1000px;
     margin: auto;
     overflow: hidden;
-    background-color: #2b497d;
+    background-color: var(--azul);
 
 }
 .logo-unah{
@@ -86,7 +90,7 @@ h2.titulo {
 }
 
 .articulo {
-    width: 29%;
+    width: 35%;
     background: #fff;
     margin-bottom: 30px;
     border-radius: 10px;
@@ -102,7 +106,7 @@ h2.titulo {
     display: flex;
     justify-content: center;
     border-radius: 10px;
-    border: solid 3px #1864ab;
+    border: solid 3px var(--azul);
     align-items: center;
 
 
@@ -125,18 +129,18 @@ h2.titulo {
 }
 
 .articulo>h3 {
-    font-size: 20px;
+    font-size: 18px;
     margin-top: 30px;
 }
 .articulo>h2 {
-    font-size: 27px;
+    font-size: 26px;
     margin-top: 25px;
 }
 
 .articulo>p {
 
 
-    color: #2b4272;
+    color: var(--azul);
     margin-top: 20px;
     margin-bottom: 10px;
     font-size: 20px;
