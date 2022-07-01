@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2df3b0a-cef5-4d8a-919d-bb8ceb818c1b" name="Changes" comment="borde de dias mas grueso">
+    <list default="true" id="d2df3b0a-cef5-4d8a-919d-bb8ceb818c1b" name="Changes" comment="letra mas grande xd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
       <updated>1656632967555</updated>
       <workItem from="1656632968824" duration="1659000" />
       <workItem from="1656634659220" duration="42000" />
-      <workItem from="1656634709031" duration="3081000" />
+      <workItem from="1656634709031" duration="4504000" />
     </task>
     <task id="LOCAL-00001" summary="quite basura e hice mas grande el texto">
       <created>1656634670191</created>
@@ -114,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656637471946</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="letra mas grande">
+      <created>1656638291078</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656638291078</updated>
+    </task>
+    <task id="LOCAL-00011" summary="letra mas grande xd">
+      <created>1656638422929</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656638422929</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +155,8 @@
     <MESSAGE value="hice mas grande la letra 5" />
     <MESSAGE value="hice mas grande la letra 6" />
     <MESSAGE value="borde de dias mas grueso" />
-    <option name="LAST_COMMIT_MESSAGE" value="borde de dias mas grueso" />
+    <MESSAGE value="letra mas grande" />
+    <MESSAGE value="letra mas grande xd" />
+    <option name="LAST_COMMIT_MESSAGE" value="letra mas grande xd" />
   </component>
 </project>

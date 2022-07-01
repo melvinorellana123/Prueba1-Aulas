@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #1d273b;
+    color: #2b4272;
     font-weight: 300;
 }
 
@@ -30,11 +30,11 @@ h6 {
 
 
 .contenedor1 {
-    width: 95%;
     max-width: 1000px;
     margin: auto;
     overflow: hidden;
-    padding: 60px 0;
+
+
 
 }
 
@@ -46,10 +46,22 @@ h1 {
 h1 .txt1 {
     color: rgb(0, 0, 0);
 }
+.caja-titulo{
+    align-items: center;
+    display: flex;
+    height: 150px;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    background-color: #2b4272;
 
-.titulo {
-    font-size: 50px;
-    margin-top: 50px;
+}
+h2.titulo {
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 35px;
+    width: 100%;
+    text-align: center;
 }
 
 /* About us */
