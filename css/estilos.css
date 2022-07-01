@@ -47,8 +47,10 @@ h1 .txt1 {
     color: rgb(0, 0, 0);
 }
 .caja-titulo{
+
     align-items: center;
     display: flex;
+    justify-content: space-around;
     height: 150px;
     width: 100%;
     max-width: 1000px;
@@ -56,6 +58,9 @@ h1 .txt1 {
     overflow: hidden;
     background-color: #2b4272;
 
+}
+.logo-unah{
+    width: 100px;
 }
 h2.titulo {
     color: rgba(255, 255, 255, 0.95);
