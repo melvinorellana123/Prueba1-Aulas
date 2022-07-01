@@ -32,6 +32,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,10 +45,34 @@
       <option name="presentableId" value="Default" />
       <updated>1656632967555</updated>
       <workItem from="1656632968824" duration="1659000" />
+      <workItem from="1656634659220" duration="42000" />
     </task>
+    <task id="LOCAL-00001" summary="quite basura e hice mas grande el texto">
+      <created>1656634670191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656634670191</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="quite basura e hice mas grande el texto" />
+    <option name="LAST_COMMIT_MESSAGE" value="quite basura e hice mas grande el texto" />
   </component>
 </project>
