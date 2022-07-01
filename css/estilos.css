@@ -96,6 +96,7 @@ h1 .txt1 {
     font-size: 30px;
     color: #fff;
     background: #1FDE82;
+    display: flex;
     display: inline-block;
     width: 70px;
     height: 70px;
@@ -113,7 +114,9 @@ h1 .txt1 {
     font-size: 25px;
     margin-top: 50px;
 }
-
+.articulo>h6 {
+    margin-top: 30px;
+}
 
 .articulo>p {
     font-weight: 100;
@@ -163,6 +166,7 @@ h1 .txt1 {
     /* About us */
     .articulo {
         width: 95%;
+        padiding-left: 50px;
     }
 }
 
