@@ -77,14 +77,14 @@ h1 .txt1 {
 }
 
 .articulo:hover {
-    box-shadow: 0 4px 10px rgba(17, 29, 48, .26);
+    box-shadow: 0 4px 10px rgba(5, 39, 80, 0.27);
 }
 .caja-días{
     width: 60%;
     display: flex;
     justify-content: center;
     border-radius: 10px;
-    border: solid 4px #1864ab;
+    border: solid 3px #1864ab;
     align-items: center;
 
 
@@ -107,11 +107,11 @@ h1 .txt1 {
 }
 
 .articulo>h3 {
-    font-size: 24px;
+    font-size: 20px;
     margin-top: 30px;
 }
 .articulo>h2 {
-    font-size: 25px;
+    font-size: 29px;
     margin-top: 25px;
 }
 
@@ -121,17 +121,6 @@ h1 .txt1 {
     margin-top: 20px;
     margin-bottom: 10px;
     font-size: 20px;
-}
-
-.articulo>a {
-    color: #5D6678;
-    font-weight: 400;
-    text-decoration: none;
-}
-
-.articulo>a:hover {
-    color: #1FDE82;
-    transition: color .5s;
 }
 
 
@@ -149,7 +138,7 @@ h1 .txt1 {
 
 @media screen and (max-width:600px) {
     .titulo {
-        font-size: 35px;
+        font-size: 40px;
     }
 
     h1 {
