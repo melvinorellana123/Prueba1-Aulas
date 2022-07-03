@@ -1,5 +1,5 @@
 :root {
-    --azul: rgb(12, 56, 105)
+    --azul: rgb(1, 55, 117)
 }
 
 * {
@@ -102,15 +102,16 @@ h2.titulo {
     transition: 0.5s;
 }
 .activo{
-    border: solid 2px rgb(139, 198, 62);
-    box-shadow: 0 4px 14px rgba(139, 198, 62, 0.64);
+    border: solid 2px var(--azul);
+    box-shadow: 0 4px 14px var(--azul);
 }
 .icon-activo{
+    box-shadow: 0 0 5px #FCB814FF;
     margin: 10px 10px 0 0;
     justify-self: end;
     border-radius: 3px;
     padding: 2px 5px 2px 5px;
-    background-color: #8bc63e;
+    background-color: #fcb814;
    text-align: center;
 
 
