@@ -1,5 +1,5 @@
 :root {
-    --azul: #0c3869
+    --azul: rgba(12, 56, 105, 0.9)
 }
 
 * {
@@ -8,9 +8,10 @@
     box-sizing: border-box;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
+
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -21,7 +22,7 @@ h3,
 h4,
 h5,
 h6,
-p{
+p {
     color: var(--azul);
     font-weight: 300;
 }
@@ -40,7 +41,6 @@ p{
     overflow: hidden;
 
 
-
 }
 
 h1 {
@@ -51,7 +51,8 @@ h1 {
 h1 .txt1 {
     color: rgb(0, 0, 0);
 }
-.caja-titulo{
+
+.caja-titulo {
 
     align-items: center;
     display: flex;
@@ -64,9 +65,11 @@ h1 .txt1 {
     background-color: var(--azul);
 
 }
-.logo-unah{
+
+.logo-unah {
     width: 100px;
 }
+
 h2.titulo {
     color: rgba(255, 255, 255, 0.95);
     font-size: 35px;
@@ -90,6 +93,7 @@ h2.titulo {
 }
 
 .articulo {
+
     width: 35%;
     background: #fff;
     margin-bottom: 30px;
@@ -97,11 +101,16 @@ h2.titulo {
     padding: 30px 10px 40px 30px;
     transition: 0.5s;
 }
+.activo{
+    border: solid 3px var(--azul);
+    box-shadow: 0 4px 14px var(--azul);
+}
 
 .articulo:hover {
     box-shadow: 0 4px 10px rgba(5, 39, 80, 0.27);
 }
-.caja-días{
+
+.caja-días {
     width: 60%;
     display: flex;
     justify-content: center;
@@ -111,10 +120,17 @@ h2.titulo {
 
 
 }
-.caja-días>p{
-    margin: 10px ;
+
+.caja-días > p {
+    margin: 10px;
 }
-.articulo>i {
+
+.articulo .iconos {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.articulo > i {
     font-size: 30px;
     color: #fff;
     background: #1FDE82;
@@ -128,16 +144,17 @@ h2.titulo {
     box-shadow: 0 8px 32px rgba(31, 222, 130, .46);
 }
 
-.articulo>h3 {
+.articulo > h3 {
     font-size: 18px;
     margin-top: 30px;
 }
-.articulo>h2 {
+
+.articulo > h2 {
     font-size: 26px;
     margin-top: 25px;
 }
 
-.articulo>p {
+.articulo > p {
 
 
     color: var(--azul);
@@ -147,10 +164,9 @@ h2.titulo {
 }
 
 
-
 /* Breakpoints responsive */
 
-@media screen and (max-width:800px) {
+@media screen and (max-width: 800px) {
 
     /* About us */
     .articulo {
@@ -159,7 +175,7 @@ h2.titulo {
 }
 
 
-@media screen and (max-width:600px) {
+@media screen and (max-width: 600px) {
     .titulo {
         font-size: 40px;
     }
