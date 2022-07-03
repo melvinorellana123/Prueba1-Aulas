@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2df3b0a-cef5-4d8a-919d-bb8ceb818c1b" name="Changes" comment="icono de clase activa">
+    <list default="true" id="d2df3b0a-cef5-4d8a-919d-bb8ceb818c1b" name="Changes" comment="boton de clase activa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <workItem from="1656634659220" duration="42000" />
       <workItem from="1656634709031" duration="11919000" />
       <workItem from="1656698808978" duration="326000" />
-      <workItem from="1656820466194" duration="2565000" />
+      <workItem from="1656820466194" duration="3203000" />
     </task>
     <task id="LOCAL-00001" summary="quite basura e hice mas grande el texto">
       <created>1656634670191</created>
@@ -222,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656822527258</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="boton de clase activa">
+      <created>1656823659142</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1656823659142</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +268,7 @@
     <MESSAGE value="colores unah" />
     <MESSAGE value="box sahdow clase activa" />
     <MESSAGE value="icono de clase activa" />
-    <option name="LAST_COMMIT_MESSAGE" value="icono de clase activa" />
+    <MESSAGE value="boton de clase activa" />
+    <option name="LAST_COMMIT_MESSAGE" value="boton de clase activa" />
   </component>
 </project>

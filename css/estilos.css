@@ -102,24 +102,22 @@ h2.titulo {
     transition: 0.5s;
 }
 .activo{
-    border: solid 3px var(--azul);
-    box-shadow: 0 4px 14px var(--azul);
+    border: solid 2px rgb(139, 198, 62);
+    box-shadow: 0 4px 14px rgba(139, 198, 62, 0.64);
 }
 .icon-activo{
     margin: 10px 10px 0 0;
     justify-self: end;
-    border-radius: 5px;
-    width: 80px;
-    padding: 5px;
-    background-color: var(--azul);
+    border-radius: 3px;
+    padding: 2px 5px 2px 5px;
+    background-color: #8bc63e;
    text-align: center;
 
 
 }
-.icon-activo:hover{
 
-}
 .icon-activo p{
+    font-size: 14px;
     font-weight: 400;
     margin: 0;
     color: #ffffff;
