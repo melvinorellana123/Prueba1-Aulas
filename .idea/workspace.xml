@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2df3b0a-cef5-4d8a-919d-bb8ceb818c1b" name="Changes" comment="boton de clase activa color verde">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
-    </list>
+    <list default="true" id="d2df3b0a-cef5-4d8a-919d-bb8ceb818c1b" name="Changes" comment="BOTON COLOR AMARILLO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +55,7 @@
       <workItem from="1656634659220" duration="42000" />
       <workItem from="1656634709031" duration="11919000" />
       <workItem from="1656698808978" duration="326000" />
-      <workItem from="1656820466194" duration="4156000" />
+      <workItem from="1656820466194" duration="4616000" />
     </task>
     <task id="LOCAL-00001" summary="quite basura e hice mas grande el texto">
       <created>1656634670191</created>
@@ -235,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656824278859</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="BOTON COLOR AMARILLO">
+      <created>1656825321834</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1656825321834</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +281,7 @@
     <MESSAGE value="icono de clase activa" />
     <MESSAGE value="boton de clase activa" />
     <MESSAGE value="boton de clase activa color verde" />
-    <option name="LAST_COMMIT_MESSAGE" value="boton de clase activa color verde" />
+    <MESSAGE value="BOTON COLOR AMARILLO" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOTON COLOR AMARILLO" />
   </component>
 </project>
